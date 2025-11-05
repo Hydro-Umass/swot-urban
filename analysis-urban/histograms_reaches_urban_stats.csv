@@ -1,6 +1,0 @@
-class,column,n,mean,median,std,q25,q75
-Total Impervious Surface,fctimp_mea,32017,0.0365,0.0095,0.0673,0.0021,0.0498
-Open Space,nlcd_21_me,32017,0.0319,0.0124,0.0369,0.0037,0.0570
-Low Intensity,nlcd_22_me,32017,0.0303,0.0122,0.0409,0.0023,0.0456
-Medium Intensity,nlcd_23_me,32017,0.0177,0.0045,0.0322,0.0010,0.0177
-High Intensity,nlcd_24_me,32017,0.0079,0.0006,0.0157,0.0000,0.0048
